@@ -1,0 +1,17 @@
+# Core scraping dependencies
+requests>=2.28
+beautifulsoup4>=4.12
+lxml>=4.9
+
+# Optional (Selenium for browser automation)
+selenium>=4.8
+
+# Data handling / export (optional)
+pandas>=1.5
+
+# Testing / linting
+pytest>=7.2
+ruff>=0.14
+
+# Utilities
+python-dotenv>=1.0
